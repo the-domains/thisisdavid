@@ -1,0 +1,28 @@
+name: thisisdavid
+favicon: null
+layout_spectrum: 0.4150457540526986
+typography_spectrum: 0.34863761835731566
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9638043262530118
+  lightness: 0.24572638422250748
+  saturation: 0.45757369697093964
+  rhythmicContrast: 0.9700966018717736
+purpose: []
